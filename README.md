@@ -1,5 +1,5 @@
 # 🔷 About Me:
-Estudante ISEL, engenharia informática
+Studying Software and Computer Engineering at ISEL (Lisbon)
 
 
 ## 🌐 Socials:
